@@ -1,5 +1,7 @@
 ﻿# GitHub Profile Analyzer
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=28&duration=3000&pause=800&color=4F46E5&center=true&vCenter=true&width=900&lines=GitHub+Profile+Analyzer;Modern+Analytics+for+GitHub+Profiles;Charts%2C+Bookmarks%2C+Insights)
+
 A modern, responsive GitHub Profile Analyzer built with React, Chart.js, and Framer Motion. Explore profile details, visualize repo insights, filter by language, and save favorites.
 
 ## Features
