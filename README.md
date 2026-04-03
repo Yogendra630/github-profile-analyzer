@@ -44,7 +44,7 @@ Vite will print the local URL in your terminal (usually http://localhost:5173).
 
 ## Screenshots
 Add screenshots here after running the app locally:
-- `screenshots/home.png`
+- `Screenshot 2026-04-03 230009.png`
 - `screenshots/profile.png`
 
 ## Live Demo
