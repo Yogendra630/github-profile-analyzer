@@ -56,3 +56,32 @@ Vite will print the local URL in your terminal (usually http://localhost:5173).
 
 ## Notes
 - GitHub API has rate limits for unauthenticated requests. If you hit rate limits, try again later or add a personal access token in the `githubApi.js` service.
+<h2>🤝 Contributing</h2>
+
+<p>
+Contributions are welcome!  
+Feel free to fork the repository and submit pull requests.
+</p>
+
+<hr>
+
+<h2>📜 License</h2>
+
+<p>
+This project is licensed under the <b>MIT License</b>.
+</p>
+
+<hr>
+
+<h2>👨‍💻 Author</h2>
+
+<p>
+<b>Yogendra Maurya</b><br>
+
+</p>
+
+<hr>
+
+<p align="center">
+⭐ If you like this project, please give it a star on GitHub!
+</p>
