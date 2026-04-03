@@ -48,8 +48,9 @@ Add screenshots here after running the app locally:
 - `screenshots/profile.png`
 
 ## Live Demo
-Add your deployed URL here once live:
-- Demo: [Add your link]
+
+- Demo: https://teal-sable-27e577.netlify.app/
+
 
 ## Notes
 - GitHub API has rate limits for unauthenticated requests. If you hit rate limits, try again later or add a personal access token in the `githubApi.js` service.
